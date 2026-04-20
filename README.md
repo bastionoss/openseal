@@ -5,11 +5,10 @@
 - **Secure Vault:** Copy/Paste/Encrypt text with RSA-4096.
 - **File Sealer:** Encrypt and decrypt sensitive files locally.
 - **Key Manager:** Generate, Import, and Export PGP keys.
-- **Universal Linux Support:** Optimized for GNOME, KDE, and Arch Linux.
 
 ## 🚀 Installation
 1. Clone the repository:
-   `git clone https://github.com/YOUR_USERNAME/OpenSeal.git`
+   `git clone https://github.com/bastionoss/openseal`
 2. Enter the directory:
    `cd OpenSeal`
 3. Run the installer:
